@@ -30,7 +30,7 @@ View Dockerfiles for the latest tags:
 - [markoshust/magento-nginx (Docker Hub)](https://hub.docker.com/r/markoshust/magento-nginx/)
   - [`1.18`, `1.18-8`](https://github.com/markshust/docker-magento/tree/master/images/nginx/1.18)
 - [markoshust/magento-php (Docker Hub)](https://hub.docker.com/r/markoshust/magento-php/)
-  - [`8.1-fpm`, `8.1-fpm-1`](https://github.com/markshust/docker-magento/tree/master/images/php/8.1)
+  - [`8.1-fpm`, `8.1-fpm-1`](https://github.com/markshust/docker-magento/tree/master/images/php/8.1)s
   - [`7.4-fpm`, `7.4-fpm-15`](https://github.com/markshust/docker-magento/tree/master/images/php/7.4)
 - [markoshust/magento-elasticsearch (Docker Hub)](https://hub.docker.com/r/markoshust/magento-elasticsearch/)
   - [`7.16`, `7.16-0`](https://github.com/markshust/docker-magento/tree/master/images/elasticsearch/7.16)

@@ -21,7 +21,8 @@ services:
       #- ./src/var/report:/var/www/html/var/report:cached
 
   phpfpm:
-    volumes: *appvolumes
+    volumes: &appvolumes
+      - ./src/vendor:/var/www/html/vendor
 
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
